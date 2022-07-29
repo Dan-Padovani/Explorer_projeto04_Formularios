@@ -1,6 +1,6 @@
-# Explorer_Desafio_Rocketsect
+# Explorer_Desafio_Formulários
 
-## A simple landing page to training and practice more HTML and CSS.
+## A Form to practice HTML and CSS and form inputs.
 
 <p align="center">
 	<a href="#computer-about">About</a> •
