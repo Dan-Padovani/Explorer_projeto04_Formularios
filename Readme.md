@@ -19,7 +19,8 @@ I had the oportunity to practice and study:
 *	Forms;
 *	Labes, Ids and inputs;
 *	Fieldset and Legend;
-* Creating styles for submit.
+* Creating styles for submit;
+* Validate inputs with html properties.
 
 
 ---
